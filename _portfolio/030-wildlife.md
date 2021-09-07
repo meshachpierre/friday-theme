@@ -1,5 +1,5 @@
 ---
-title: Birds
+title: Wildlife
 ---
 
 <div class="card-columns">
