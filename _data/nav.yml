@@ -1,13 +1,17 @@
 - title: Home
   href: index.html
 
-- title: About
-  href: about.html
+- title: Who Am I?
+  href: whoami.html
 
-- title: Posts
-  href: list/posts.html
+- title: Research
+  href: research.html
 
-- title: Documentation
-  href: list/projects.html
+- title: Teaching
+  href: teaching.html
 
+- title: Creative Work
+  href: creative.html
 
+- title: Curriculum Vitae
+  href: assets/meshachpierre_cv.pdf
