@@ -30,9 +30,11 @@ collections:
     output: true
     title: Projects
     permalink: /:collection/:name.html
+
+collections:
   portfolio:
     output: true
-    title: portfolio
+    title: Photography Portfolio
     permalink: /:collection/:name.html
 
 defaults:
